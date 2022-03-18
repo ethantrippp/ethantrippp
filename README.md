@@ -1,5 +1,3 @@
 # ethantrippp
 
----
-
-ethantrippp
+#### Aspiring Software Engineer
